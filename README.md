@@ -1,1 +1,3 @@
-# uk-population-analysis
+I analysed 53 years of UK population data using official ONS government statistics — looking at how our age structure has changed since 1971, where men and women diverge in population size, how the 2008 recession and COVID hit different age groups in very different ways, and what the numbers actually mean for the UK workforce.
+What I built to do it: Python (pandas, matplotlib) · SQL with window functions · Power BI with DAX measures · GitHub
+The finding that surprised me most: the 18–24 age group is only 10% of the working-age population but accounts for over 25% of estimated unemployment. The rate tells one story. The actual count tells a completely different one.
